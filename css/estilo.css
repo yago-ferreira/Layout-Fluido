@@ -127,23 +127,23 @@ ul#navegacao a:hover {
     float: right;
 }
 
-/* Área de conteúdos  */
-#area-principal{
+/* Área de conteúdos ou menu principal a esquerda*/
+article{
   float:left;  
   width: 50%;
   background:  url(../imagens/bg-area-principal.png) top left repeat-x;
   padding: 15px 0px;
 
 }
-
-#area-lateral{
+/* menu lateral  a direita */
+aside{
     float: right;
     width: 50%;
     background:  url(../imagens/bg-area-lateral.png) top left repeat-x;
     padding: 20px 0px;
 }
 
-.conteudo {
+section {
     margin: 0 auto;
     width: 90%;
 }
