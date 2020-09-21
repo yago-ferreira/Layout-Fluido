@@ -125,6 +125,7 @@ ul#navegacao a:hover {
     width: 226px;
     height: 164px;
     float: right;
+    border-radius: 25px;
 }
 
 /* Área de conteúdos ou menu principal a esquerda*/
