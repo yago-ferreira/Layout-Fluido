@@ -17,7 +17,7 @@ body{
     max-width: 1180px;
 }
 
-#topo{
+header{
     position: relative;
     background: #dbcd87 ;
     height: 15.4em;
@@ -95,7 +95,7 @@ a.reserva {
 
 /* Barra de navegação vertical */
 
-#menu {
+nav {
     margin-top: 15px;
 }
 
@@ -196,7 +196,7 @@ p {
 
 }
 
-#rodape{
+footer{
     clear: both;
     background: #fff url(../imagens/bg-rodape.png) repeat-x top;
     padding: 16px;
